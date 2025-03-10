@@ -1,0 +1,10 @@
+.body{
+    background-color: darkslategrey; color: darkgrey; text-align: center; 
+}
+.imagemArthur{
+    width:"300px"; height:"200px"; border-radius: 50px;
+}
+#divIdentify{
+    text-align: start;
+    color: darksalmon;
+}
