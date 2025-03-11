@@ -11,6 +11,14 @@
     padding-top: 1;
     padding-bottom: 1;
 }
+.displayDiv{
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+}
+.subDiv{
+    margin: 40px;
+}
 #imgArthur{
     width: 300px;
     height: 200px;
