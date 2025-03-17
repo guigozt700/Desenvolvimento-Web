@@ -1,0 +1,30 @@
+body{
+    margin: 50px;
+}
+.formularioDiv{
+    background-color: darkblue;
+    display: flex;
+    align-items:stretch;
+    justify-content:center;
+    gap: 50px;
+    margin: 50px;
+    padding-right: 300px;
+    padding-left: 250px;
+    padding-top: 25px;
+    padding-bottom: 250px;
+    border: 2px;
+    border-color: solid #fff;
+}
+.imgForm{
+    width: 70%;
+    border: 3%;
+    box-shadow: 5px 5px 5px black;
+    border-radius: 5%;
+}
+label{
+    color: white;
+}
+input, button{
+    border: 1px;
+    box-shadow: 5px 5px 5px black;
+}
